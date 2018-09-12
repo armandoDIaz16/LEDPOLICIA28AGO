@@ -3,7 +3,7 @@
 void setup() {
   pinMode(led_1,OUTPUT);
   pinMode(led_2,OUTPUT);
-
+//primera version
 }
 
 void loop() {
